@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Pie-de-Pagina{
+    background-color: grey;
+    font-weight: bold;
+}
+
+.navegador {
+    background-color: cyan;
+}
+.title {
+    background-color: blueviolet;
+    font-family: sans-serif;
+}
+.subtitulo {
+    background-color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+.Post-Subtitulo {
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.List-Links {
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+    font-size: large;
+}
+
+.dia-uno {
+    font-weight: bold;
+    color: aquamarine;
+    font-size: x-large;
+}
+.horario-uno {
+    font-style: italic;
+    color:aquamarine;
+}
+.sin-horario {
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
+.dia-dos {
+    font-weight: bold;
+    color: yellowgreen;
+    font-size: x-large;
+}
+.horario-dos {
+    font-style: italic;
+    color: yellowgreen;
+}
+.dia-tres {
+    font-weight: bold;
+    color: orangered;
+    font-size: x-large;
+}
+.horario-tres {
+    font-style: italic;
+    color: orangered;
+}
+.dia-cuatro {
+    font-weight: bold;
+    color: blue;
+    font-size: x-large;
+}
+.horario-cuatro {
+    font-style: italic;
+    color: blue;
+}
+.dia-finde {
+    font-weight: bold;
+    color: red ;
+    font-size: x-large;
+}
+.horario-finde {
+    font-style: italic;
+    color: red;
+}
+.dias {
+    color: fuchsia;
+    font-weight: bolder;
+    font-weight: bold;
+}
+.horario {
+    color: fuchsia;
+    font-style: italic;
+    font-weight: bold;
+    text-underline-position: auto;
+}
